@@ -21,6 +21,7 @@ body {
 }
 
 .body-container {
+  overflow-x: hidden;
   background-color: hsl(0, 0%, 98%);
   position: relative;
 }
@@ -139,6 +140,7 @@ body {
 .title {
   color: hsl(228, 39%, 23%);
   font-size: 6.4rem;
+  font-weight: 700;
   z-index: 20;
 }
 .title-about {
@@ -203,6 +205,7 @@ body {
 .second-title {
   color: hsl(228, 39%, 23%);
   font-size: 2rem;
+  font-weight: 500;
   margin-top: 0.5rem;
 }
 /**************testemonios****************************************************/
@@ -470,7 +473,10 @@ body {
   .text-hero {
     text-align: center;
   }
-  .hero-title {
+  .title {
+    font-size: 3.6rem;
+  }
+  .Testemonios .title {
     font-size: 3.6rem;
   }
   .about {
@@ -486,10 +492,14 @@ body {
   .responsive-text {
     text-align: center;
   }
+  .num {
+    margin-left: 4.8rem;
+  }
   .title-responsive-about {
     background-color: hsla(12, 85%, 79%, 0.25);
+
     padding: 0.8rem 3rem;
-    width: 80vw;
+    width: 95vw;
     margin-left: -2rem;
     transform: translateY(-10%);
     font-size: 1.6rem;
@@ -593,9 +603,5 @@ body {
 @media (max-width: 300px) {
   html {
     font-size: 35%;
-  }
-
-  .bg-header {
-    width: 35%;
   }
 }
