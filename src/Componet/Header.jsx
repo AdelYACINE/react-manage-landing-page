@@ -6,7 +6,7 @@ const Header = () => {
     <div className="header">
       <img
         className="img-fluid bg-header"
-        src="/src/assets/bg-tablet-pattern.svg"
+        src="assets/bg-tablet-pattern.svg"
         alt="hero-img"
       />
 
@@ -16,13 +16,13 @@ const Header = () => {
 
       <img
         className="img-fluid bg-header-second "
-        src="/src/assets/bg-tablet-pattern.svg"
+        src="assets/bg-tablet-pattern.svg"
         alt="hero-img"
       />
 
       <img
         className="img-fluid bg-header-third "
-        src="/src/assets/bg-tablet-pattern.svg"
+        src="assets/bg-tablet-pattern.svg"
         alt="hero-img"
       />
     </div>

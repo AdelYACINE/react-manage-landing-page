@@ -8,7 +8,7 @@ const NavBar = () => {
         <div className="logo">
           <img
             className="img-fluid logo-brand"
-            src="/src/assets/logo.svg"
+            src="assets/logo.svg"
             alt="hero-img"
           />
         </div>

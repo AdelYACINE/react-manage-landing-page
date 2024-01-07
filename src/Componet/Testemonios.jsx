@@ -9,7 +9,7 @@ const Testemonios = () => {
         <div className="card">
           <img
             className="img-fluid avatar"
-            src="/src/assets/avatar-anisha.png"
+            src="assets/avatar-anisha.png"
             alt="hero-img"
           />
           <h3 className=" name"> Anisha Li</h3>
@@ -23,7 +23,7 @@ const Testemonios = () => {
         <div className="card">
           <img
             className="img-fluid avatar"
-            src="/src/assets/avatar-ali.png"
+            src="assets/avatar-ali.png"
             alt="hero-img"
           />
           <h3 className=" name"> Ali Bravo</h3>
@@ -37,7 +37,7 @@ const Testemonios = () => {
         <div className="card">
           <img
             className="img-fluid avatar"
-            src="/src/assets/avatar-richard.png"
+            src="assets/avatar-richard.png"
             alt="hero-img"
           />
           <h3 className=" name"> Richard Watts</h3>
@@ -50,7 +50,7 @@ const Testemonios = () => {
         <div className="card">
           <img
             className="img-fluid avatar"
-            src="/src/assets/avatar-shanai.png"
+            src="assets/avatar-shanai.png"
             alt="hero-img"
           />
           <h3 className=" name"> Shanai Gough</h3>
@@ -66,7 +66,7 @@ const Testemonios = () => {
         <div className="card">
           <img
             className="img-fluid avatar"
-            src="/src/assets/avatar-anisha.png"
+            src="assets/avatar-anisha.png"
             alt="hero-img"
           />
           <h3 className=" name"> Anisha Li</h3>
@@ -80,7 +80,7 @@ const Testemonios = () => {
         <div className="card">
           <img
             className="img-fluid avatar"
-            src="/src/assets/avatar-ali.png"
+            src="assets/avatar-ali.png"
             alt="hero-img"
           />
           <h3 className=" name"> Ali Bravo</h3>
@@ -94,7 +94,7 @@ const Testemonios = () => {
         <div className="card">
           <img
             className="img-fluid avatar"
-            src="/src/assets/avatar-richard.png"
+            src="assets/avatar-richard.png"
             alt="hero-img"
           />
           <h3 className=" name"> Richard Watts</h3>

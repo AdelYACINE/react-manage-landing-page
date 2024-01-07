@@ -15,7 +15,7 @@ const Hero = () => {
       <div className="container-img">
         <img
           className="img-fluid "
-          src="/src/assets/illustration-intro.svg"
+          src="assets/illustration-intro.svg"
           alt="hero-img"
         />
       </div>
